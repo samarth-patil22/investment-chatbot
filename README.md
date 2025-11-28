@@ -39,7 +39,10 @@ The system computes:
 Built with Streamlit:
 - Bot Answer  
 - Investment Summary  
-- Clear formatted values  
+- Clear formatted values
+
+- <img width="1843" height="931" alt="image" src="https://github.com/user-attachments/assets/5664e1eb-e3b7-4601-9666-8d1d8ec3baed" />
+
 
 ---
 
